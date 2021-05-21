@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n8ch84dt9rt5oe6c?svg=true)](https://ci.appveyor.com/project/elenkalee/aqa-1-2-echo)
